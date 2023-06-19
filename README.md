@@ -2,6 +2,8 @@
 
 get gmail-oauth2 tokens by Node.js
 
+[Python version arrived](https://github.com/WhiteCat6142/mail-hato)
+
 ### Usage
 
 ```bash
